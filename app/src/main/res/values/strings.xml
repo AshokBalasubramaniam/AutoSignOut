@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto Attendance</string>
+    <string name="accessibility_label">Auto Attendance</string>
+    <string name="accessibility_description">Detects attendance status and automatically signs in or out at scheduled times using your selected location.</string>
+</resources>
